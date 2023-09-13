@@ -52,4 +52,9 @@ print("Загрузка завершена. Выполняем основные 
 ---
 
 Это всё! С помощью `loadscreen` вы можете создавать информативные экраны загрузки для ваших приложений на Python и обеспечивать лучший опыт пользователей во время длительных процессов. Наслаждайтесь использованием библиотеки!
-```
+
+- ![Static Badge](https://img.shields.io/badge/erkinworkmail%40gmail.com-profil?logo=gmail&color=white&link=erkinworkmail%40gmail.com)
+
+
+
+- ![Static Badge](https://img.shields.io/badge/ErkinKraft-Profil?logo=telegram&color=blue&link=https%3A%2F%2Ft.me%2FErkinKraft)
