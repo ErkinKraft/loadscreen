@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+loadscreen.egg-info/PKG-INFO
+loadscreen.egg-info/SOURCES.txt
+loadscreen.egg-info/dependency_links.txt
+loadscreen.egg-info/not-zip-safe
+loadscreen.egg-info/top_level.txt
